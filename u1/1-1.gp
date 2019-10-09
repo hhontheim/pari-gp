@@ -1,0 +1,9 @@
+read("u1/vigenere.gp");
+
+c = "DADPSGSHCIITQLRGLDYEKCIYAPORLSKHFOETSLWLQBDAUPSNYYRIRNRCEK";
+
+k = [2,15,3,7,0];
+
+print(D(c, k));
+
+\q
